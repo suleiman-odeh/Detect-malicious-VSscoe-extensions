@@ -17,4 +17,3 @@ In each Technique Directory you will find the steps required to perform the tech
 
 ## Author
 Suleiman Odeh
-Matriculation number: 3391757
